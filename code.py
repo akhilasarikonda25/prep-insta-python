@@ -12,7 +12,7 @@ INSTALLATION AND SETUP:
 >>Installing IntelliJ idea for windows based system:(Code Editor)
   
   1) Go to jetbrains.com
-  2) Go to Toos
+  2) Go to Developer Tools
   3) Click on IntelliJIDEA
   4) Click on download
   5) Ultimate edition is for bigger companies so we are going to download community edition click on download.
