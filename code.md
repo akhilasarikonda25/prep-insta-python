@@ -22,6 +22,7 @@ INSTALLATION AND SETUP:
 
 >> HELLO WORLD PROGRAM
 
-    
+![hello world](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/f75b1194-3f2f-4313-94a3-11ba3fdd7288)
+
     
   
