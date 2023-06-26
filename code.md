@@ -30,7 +30,5 @@ INSTALLATION AND SETUP:
 
 ![Uploading printing.png…]()
 
-
-
     
   
