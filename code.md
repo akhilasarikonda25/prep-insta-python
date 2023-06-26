@@ -24,5 +24,12 @@ INSTALLATION AND SETUP:
 
 ![hello world](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/f75b1194-3f2f-4313-94a3-11ba3fdd7288)
 
+>>PRINTING IN PYTHON
+
+![Screenshot_1](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/b0f77a71-e6b4-4baf-b00a-1a665f0a261d)
+
+![Uploading printing.png…]()
+
+
     
   
