@@ -28,7 +28,8 @@ INSTALLATION AND SETUP:
 
 ![Screenshot_1](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/b0f77a71-e6b4-4baf-b00a-1a665f0a261d)
 
-![Uploading printing.png…]()
+![Screenshot_2](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/77c3cd59-4941-4dee-92ec-c7735781c517)
+![Screenshot_3](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/a09bde96-7e20-4f5d-8bf9-22bcd58f4c5a)
 
     
   
