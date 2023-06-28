@@ -32,8 +32,6 @@ INSTALLATION AND SETUP:
 ![Screenshot_3](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/57cf97ab-c902-410f-8b7a-2a30b0b924d6)
 
 >>HOW STRINGS WORK IN PYTHON AND INPUT IN PYTHON
-![Screenshot_4](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/d942a151-1ef0-427b-98ca-2b22f9ac1d04)
-![Screenshot_5](https://github.com/akhilasarikonda25/prep-insta-python/assets/134198650/2b6eb4e8-d54d-4a5a-819f-892d9c1e445a)
 
 
 
